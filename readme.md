@@ -118,3 +118,5 @@ git push origin master
 
 Assuming that the set up steps went smoothly, now you can add new models/migrations for your new app, 
 and generally just start developing it as if you had started from scratch!
+
+.
